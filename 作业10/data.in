@@ -1,0 +1,11 @@
+OP(31, 28) = {ADD = a, SUB, MUL, DIV, POW, EXP} 
+OPER_1(15, 8) = {REG_1, REG_2, ADDER, MEM, STACK, BUF} 
+OPER_2(7, 0) = { REG_1 = 2, REG_2, ADDER, MEM, STACK, BUF, MUL} 
+Data = (OP, MUL, 
+OPER_1, BUF, 
+OPER_2, REG_1) 
+Data = (OP, MUL, 
+
+OPER_1, BUF, 
+
+OPER_2, REG_1)
