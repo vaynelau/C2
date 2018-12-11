@@ -1,14 +1,14 @@
 # C2
 
 高级语言程序设计（2）
-
+http://202.112.128.91/cprog/
 神坑的c2
 
 
 ## 评测机信息：
 
-| CPU：        | AMD Sempron(tm),1908.810MHz              |
-| compiler：   | gcc version 4.2.4(Ubuntu 4.2.4-1ubuntu4) |
+CPU：AMD Sempron(tm),1908.810MHz              
+compiler：gcc version 4.2.4(Ubuntu 4.2.4-1ubuntu4) 
 
 
 ## 关于期末考试
